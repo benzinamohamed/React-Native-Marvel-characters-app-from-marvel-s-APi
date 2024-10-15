@@ -7,7 +7,7 @@ This is a **React Native app** that fetches data from the **Marvel API** to disp
 - **Marvel API Integration**: Fetches real-time data about Marvel characters.
 - **Three Screens**:
   1. **Home Screen**: Displays a list of Marvel characters.
-  2. **Character Details Screen**: Shows detailed information about a selected character (e.g., bio, powers, etc.).
+  2. **Character Details Screen**: Shows detailed information about a selected character.
   3. **Comics Screen**: Allows users to see all the comics of the specified Marvel characters.
 
 ## Screenshots
